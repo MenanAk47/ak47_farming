@@ -30,7 +30,6 @@ end)
 RegisterNetEvent('ak47_farming:progress')
 AddEventHandler('ak47_farming:progress', function(msg, time)
     --Add your custom code if you use any progressbar script
-    ESX.ShowProgressBar(msg, time)
 end)
 
 RegisterNetEvent('ak47_farming:givevehiclekey')

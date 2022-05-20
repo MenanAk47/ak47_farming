@@ -1,6 +1,7 @@
 <h1 class="title style-scope ytd-video-primary-info-renderer">FARMING SCRIPT FOR GTA5 FIVEM ROLEPLAY SERVER | ESX FRAMEWORK</h1>
 <p>Required minumum <span style="color: #339966;">$5</span> of patreon membership. <a href="https://patreon.com/menanak47" target="_blank">Get your membership</a> (if you don't have already)</p>
 <p><strong>Video Showcase:</strong> <a href="https://youtu.be/sFt7aLsQ1YM" target="_blank">YouTube</a></p>
+<p><strong>Not compatible with ox/linden inventory </strong>(all other inventory works except this one)</p>
 <p><strong>Features: </strong></p>
 <ol>
 <li>Global farming system.&nbsp;</li>
